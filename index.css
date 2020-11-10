@@ -1,0 +1,18 @@
+.wrapper span:before{
+    content: 'Shtabdi Express';
+    animation: animate infinite 10s;
+}
+@keyframes animate{
+    25%{
+        content: 'Breaking News';
+    }
+    50%{
+        content: 'Top 10 News';
+    }
+    75%{
+        content: 'Headlines';
+    }
+    100%{
+        content: 'Breaking News';
+    }
+}
