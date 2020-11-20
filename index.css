@@ -10,9 +10,9 @@
         content: 'Top 10 News';
     }
     75%{
-        content: 'Headlines';
+        content: 'Top Headlines';
     }
     100%{
-        content: 'Breaking News';
+        content: 'Latest News';
     }
 }
